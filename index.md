@@ -46,6 +46,8 @@
         }
         .sidenav div:hover {
             background-color: #b7d5f4;
+            border-left-style: solid;
+            border-color: #2351fc;
         }
         .upload-container{
             margin-top: 100px;
