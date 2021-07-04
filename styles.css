@@ -19,6 +19,9 @@ body {
   align-items: center;
   flex-direction: column;
   height: 75px;
+  filter: blur(0.5px);
+  -webkit-filter: blur(0.5px);
+  color: #808080;
 }
 .sidenav div b {
   font-size: small;
@@ -38,6 +41,9 @@ body {
   background-color: #b7d5f4;
   border-left-style: solid;
   border-color: #2351fc;
+  filter: blur(0);
+  -webkit-filter: blur(0);
+  color: black;
 }
 .upload-container {
   margin-top: 100px;
