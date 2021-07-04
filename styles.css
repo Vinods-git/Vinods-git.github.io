@@ -17,7 +17,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
   height: 75px;
+}
+.sidenav div b {
+  font-size: small;
 }
 .sidenav .logo {
   display: flex;
