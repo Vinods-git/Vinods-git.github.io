@@ -47,35 +47,35 @@
         .sidenav div:hover {
             background-color: #b7d5f4;
         }
-.upload-container{
-    margin-top: 100px;
-    margin-left: 100px;
-    background-color: #f1f1f1;
-    height: 100vh;
-    padding: 40px;
-}
-.upload-container a{text-decoration: none; color: #404040    ;}
+        .upload-container{
+            margin-top: 100px;
+            margin-left: 100px;
+            background-color: #f1f1f1;
+            height: 100vh;
+            padding: 40px;
+        }
+        .upload-container a{text-decoration: none; color: #404040    ;}
 
-.upload-container h5{
-text-align: center; margin-top: 40px;
+        .upload-container h5{
+        text-align: center; margin-top: 40px;
 
-}
-.input{
-    width: 70%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+        }
+        .input{
+            width: 70%;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
 
-input{
-    height:30px;width: 100%;border:0 ;border-radius:5px;
-}
-.upload-button{
-    display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 150px; height: 150px;margin-left: auto;margin-right: auto;
-}
+        input{
+            height:30px;width: 100%;border:0 ;border-radius:5px;
+        }
+        .upload-button{
+            display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 150px; height: 150px;margin-left: auto;margin-right: auto;
+        }
 
 
     </style>
@@ -84,7 +84,7 @@ input{
 <body>
 
     <div class="sidenav shadow-lg ">
-        <div  class=" logo"><a href=""><img src="logo.png" alt="logo"></a></div>
+        <div  class=" logo"><a href=""><img src="images/logo.png" alt="logo"></a></div>
         <div><i class="fa fa-user"></i></div>
         <div><i class="fa fa-book"></i></div>
         <div><i class="fa fa-cog"></i></div>
